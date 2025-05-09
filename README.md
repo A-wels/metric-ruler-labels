@@ -21,9 +21,8 @@ It adds additional labels for the metric measurements to your ruler. It is not c
 You can now add your [Customizable Measurement Conversions](#customizable-conversions) and [Travel times](#travel-times) if you want :) Have fun!
 Compatability with V12!!!
 
-## V12 - Compatability
-The latest version is compatible with V12. If you find problems with future subversions of V12, then please let me know.
-Please note that Release 1.1.0 and above are not compatible with foundry versions below V9 :)(They might work with earlier versions than V9 but its not officially supported)
+## V13 - Compatability
+This is a test to see if this module works with FoundryVTT V13
 
 ## Table of Contents
 
